@@ -11,24 +11,24 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "YT: Emperordagoat" //ur yt chanel name
-global.socialm = "GitHub: Emperordagoat" //ur github or insta name
+global.ytname = "YT: techgoaty" //ur yt chanel name
+global.socialm = "GitHub: techgoaty" //ur github or insta name
 global.location = "Nigeria, Lagos, Ayobo" //ur location
 
 //new
-global.botname = 'Emperor' //ur bot name
-global.ownernumber = '2347041620617' //ur owner number
-global.ownername = 'klaus mikealson' //ur owner name
+global.botname = 'KILLER ANONYMOUS 🌚' //ur bot name
+global.ownernumber = '2349012044402' //ur owner number
+global.ownername = 'ANONYMOUS🥺' //ur owner name
 global.websitex = "https://youtu.be/tLq8_qOOGFI"
 global.wagc = "https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z"
 global.themeemoji = '🪀'
-global.wm = "emperor bot inc."
+global.wm = "ANONYMIX bot inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD12' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "🦄 ANONYMOUS\n\n+2349012044402"
+global.creator = "2349012044402@s.whatsapp.net"
 global.xprefix = '™'
-global.premium = ["2347041620617,2348052944641"] // Premium User
+global.premium = ["2349012044402,2348118820641"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -47,7 +47,7 @@ global.mess = {
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
     done: 'Done✓',
     error: 'Error!',
-    success: 'Here you go!'
+    success: 'ANONYMOUS DID THIS🌚!'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
