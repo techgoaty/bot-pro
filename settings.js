@@ -17,8 +17,8 @@ global.location = "Nigeria, Lagos, Ayobo" //ur location
 
 //new
 global.botname = 'KILLER ANONYMOUS 🌚' //ur bot name
-global.ownernumber = '2349012044402' //ur owner number
-global.ownername = 'ANONYMOUS🥺' //ur owner name
+global.ownernumber = '2348118820641' //ur owner number
+global.ownername = 'ANONYMOUS🤭' //ur owner name
 global.websitex = "https://youtu.be/tLq8_qOOGFI"
 global.wagc = "https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z"
 global.themeemoji = '🪀'
